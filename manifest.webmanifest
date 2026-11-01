@@ -1,0 +1,17 @@
+{
+  "name": "SALINDUNONG Resource Hub",
+  "short_name": "SALINDUNONG",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#08152e",
+  "theme_color": "#101d41",
+  "icons": [
+    {
+      "src": "/logos/salindunong.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
